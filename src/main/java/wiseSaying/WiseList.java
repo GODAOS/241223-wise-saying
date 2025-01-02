@@ -1,3 +1,5 @@
+package wiseSaying;
+
 public class WiseList {
     private static int idCount = 0; // ID 자동증가를 위한 카운트 정적 변수
     private int id;// 명언 ID
